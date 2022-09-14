@@ -33,6 +33,7 @@ MatplotLib เป็นไลบรารีที่ครอบคลุมส
    Artifact: System<br />
    Response: เวลาในการใข้งาน<br />
    Response measure: เวลา<br />
+   ที่มา:https://medium.com/@codingpilot25/architecture-of-matplotlib-1a2d44370f5a
 
 ### Audacity
 
@@ -74,6 +75,7 @@ Audacity ใช้ libraries มากมาย library หลักสำหร
    Artifact: System<br />
    Response: เวลาในการใข้งาน<br />
    Response measure: เวลาที่ใช้<br />
+   ที่มา:https://wiki.audacityteam.org/wiki/ArchitecturalDesign
 
 ### Kill Bill
 
@@ -113,4 +115,5 @@ Kill Bill เป็นแพลตฟอร์มการเรียกเก�
    Environment: Normal mode<br />
    Artifact: System<br />
    Response: การเก็บและชำระเงิน<br />
-   Response measure: เวลาที่ใช้
+   Response measure: เวลาที่ใช้<br />
+   ที่มา:https://www.yesodweb.com/
